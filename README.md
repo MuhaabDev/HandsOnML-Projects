@@ -4,3 +4,4 @@ My solutions and projects while studying the book *Hands-On Machine Learning wit
 
 ## Chapters
 - [Chapter 1](chapter1/) – Satisfaction vs GDP
+- [Chapter 2](chapter2/) – Real State Housing
