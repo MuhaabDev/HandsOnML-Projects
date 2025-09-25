@@ -96,7 +96,7 @@ jupyter notebook chapter2.ipynb
 ## 📊 Results
 
 * The final model was a **Random Forest Regressor** with hyperparameter tuning.
-* Achieved an RMSE around **X** (fill in once you run your tuned model).
+* Achieved an RMSE around **41556**.
 * Learned how model choice + data preprocessing dramatically affect performance.
 
 ---
