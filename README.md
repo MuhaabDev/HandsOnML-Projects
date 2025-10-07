@@ -6,4 +6,4 @@ My solutions and projects while studying the book *Hands-On Machine Learning wit
 - [Chapter 1](chapter1/) – Satisfaction vs GDP
 - [Chapter 2](chapter2/) – Real State Housing
 - [Chapter 3](chapter3/) - Digit Classification
-- [Chapter 4](chapter4/) - (Working on it)
+- [Chapter 4](chapter4/) - Training Models (Working on it)
